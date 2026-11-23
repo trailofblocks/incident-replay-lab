@@ -2,6 +2,17 @@
 
 A TypeScript, Node.js, PostgreSQL, and React lab for investigating simulated service failures. The playback timeline shows timestamped logs, metrics, and trace spans. A read-only analysis compares a hypothesis against the stored evidence and returns clickable citations.
 
+<!-- portfolio-demo-videos -->
+## Watch the demo
+
+Use it to practice investigating a checkout outage. The walkthrough has on-screen captions.
+
+![Captioned Incident Replay Lab walkthrough](docs/demo/how-to.gif)
+
+[Download the narrated walkthrough](docs/demo/how-to.mp4?raw=true) · [Download the narrated overview](docs/demo/overview.mp4?raw=true)
+
+<!-- /portfolio-demo-videos -->
+
 ![Queue backlog replay and cited diagnosis](docs/replay.png)
 
 ## Run
